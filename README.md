@@ -10,7 +10,7 @@
 
 * 🛠️ I’m currently building full-stack apps with **React**, **Django**, and **Next.js**
 * 📚 I’m learning more about **API design patterns**, **authentication flows**, and **DevOps basics**
-- 🌍 Based in **Accra, Ghana**.
+* 🌍 Based in **Accra, Ghana**.
 * 📁 You can find some of my projects in the pinned [repos](https://github.com/luornor?tab=repositories) — feel free to explore and ⭐
 * 🌍 I love collaborating on ideas that blend **tech and social impact** (especially around Africa)
 * 🧠 I’m always up for conversations about clean code, smart design, and good developer vibes
